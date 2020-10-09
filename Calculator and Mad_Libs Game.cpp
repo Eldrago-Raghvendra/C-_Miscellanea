@@ -41,6 +41,5 @@ else{
     cout<<"I love "<< celebrity <<endl;
 
 }
-
-   return 0;
+return 0;
 }
