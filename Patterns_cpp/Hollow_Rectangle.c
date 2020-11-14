@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-//Rectangle pattern
     int ro, co, i, j;
     cin>>ro;
     cin>>co;
